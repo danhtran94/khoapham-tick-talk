@@ -1,0 +1,35 @@
+@import "../../node_modules/bulma/bulma";
+
+.title.appname {
+  margin-bottom: 5px;
+}
+
+.tag.user-state {
+  margin-bottom: 15px;
+}
+
+.message-container {
+  max-height: 400px;
+  overflow: scroll;
+}
+
+.media-content.mess-content {
+  &.my-mess {
+    background-color: #65daf9;
+  }
+  &.sev-mess {
+    background-color: #f9f66a;
+  }
+  background-color: #e8e8ea;
+  padding: 10px;
+  color: #000;
+  border-radius: 4px;
+}
+
+.control.has-addons .input.message-input {
+  width: 100%;
+}
+
+.tile.app-input {
+  padding-top: 10px;
+}

@@ -1,0 +1,79 @@
+2016-12-05T01:09:31.767238000 40.050738s notice: Recursively removing directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data/tmp
+2016-12-05T01:09:31.771070000 40.054573s notice: Initializing directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-05T01:09:31.771146000 40.054645s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data' did not already exist or is empty.)
+2016-12-05T01:09:31.771167000 40.054666s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-05T01:09:31.776101000 40.059601s notice: Running on Darwin 16.1.0 x86_64
+2016-12-05T01:09:31.776161000 40.059660s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-05T01:09:31.883315000 40.166814s info: Automatically using cache size of 3397 MB
+2016-12-05T01:09:31.884011000 40.167511s notice: Listening for intracluster connections on port 29015
+2016-12-05T01:09:31.886636000 40.170135s notice: Listening for client driver connections on port 28015
+2016-12-05T01:09:31.906875000 40.190374s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2016-12-05T01:12:08.237118000 40.034052s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-05T01:12:08.241570000 40.038500s notice: Running on Darwin 16.1.0 x86_64
+2016-12-05T01:12:08.241602000 40.038532s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-05T01:12:08.275373000 40.072303s info: Automatically using cache size of 3301 MB
+2016-12-05T01:12:08.275914000 40.072844s notice: Listening for intracluster connections on port 29015
+2016-12-05T01:12:08.277255000 40.074185s notice: Listening for client driver connections on port 28015
+2016-12-05T01:12:08.277377000 40.074307s notice: Listening for administrative HTTP connections on port 8000
+2016-12-05T01:12:08.277379000 40.074309s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-12-05T01:12:08.277382000 40.074311s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-12-05T01:12:08.277384000 40.074313s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-12-05T01:12:08.277387000 40.074317s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-12-05T01:12:08.277391000 40.074320s notice: Server ready, "Danhs_MacBook_Pro_local_fa0" 75056670-8487-4b80-83c4-8278cbb1a6d0
+2016-12-05T01:21:41.541425000 613.356605s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: Starting a new Raft election for term 1.
+2016-12-05T01:21:41.541732000 613.356912s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: Added replica on this server.
+2016-12-05T01:21:41.564177000 613.379357s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: This server is Raft leader for term 1. Latest log index is 0.
+2016-12-05T23:50:43.361471000 40.053531s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-05T23:50:43.369871000 40.061925s notice: Running on Darwin 16.1.0 x86_64
+2016-12-05T23:50:43.369916000 40.061969s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-05T23:50:43.403603000 40.095710s info: Automatically using cache size of 3929 MB
+2016-12-05T23:50:43.404078000 40.096185s notice: Listening for intracluster connections on port 29015
+2016-12-05T23:50:43.418464000 40.110570s notice: Listening for client driver connections on port 28015
+2016-12-05T23:50:43.454745000 40.146852s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2016-12-05T23:51:49.837502000 40.045537s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-05T23:51:49.845243000 40.053273s notice: Running on Darwin 16.1.0 x86_64
+2016-12-05T23:51:49.845289000 40.053318s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-05T23:51:49.878102000 40.086131s info: Automatically using cache size of 3922 MB
+2016-12-05T23:51:49.878586000 40.086615s notice: Listening for intracluster connections on port 29015
+2016-12-05T23:51:49.891102000 40.099130s notice: Listening for client driver connections on port 28015
+2016-12-05T23:51:49.891253000 40.099282s notice: Listening for administrative HTTP connections on port 8000
+2016-12-05T23:51:49.891269000 40.099297s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-12-05T23:51:49.891271000 40.099300s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-12-05T23:51:49.891273000 40.099301s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-12-05T23:51:49.891275000 40.099303s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-12-05T23:51:49.891283000 40.099311s notice: Server ready, "Danhs_MacBook_Pro_local_fa0" 75056670-8487-4b80-83c4-8278cbb1a6d0
+2016-12-05T23:51:51.831818000 42.039955s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: Starting a new Raft election for term 2.
+2016-12-05T23:51:51.857072000 42.065209s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: This server is Raft leader for term 2. Latest log index is 3.
+2016-12-07T01:35:59.976218000 40.050586s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-07T01:35:59.982993000 40.057356s notice: Running on Darwin 16.1.0 x86_64
+2016-12-07T01:35:59.983029000 40.057390s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-07T01:36:00.014801000 40.089163s info: Automatically using cache size of 3669 MB
+2016-12-07T01:36:00.015396000 40.089757s notice: Listening for intracluster connections on port 29015
+2016-12-07T01:36:00.032104000 40.106465s notice: Listening for client driver connections on port 28015
+2016-12-07T01:36:00.032311000 40.106672s notice: Listening for administrative HTTP connections on port 8080
+2016-12-07T01:36:00.032325000 40.106687s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-12-07T01:36:00.032326000 40.106687s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-12-07T01:36:00.032328000 40.106689s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-12-07T01:36:00.032329000 40.106690s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-12-07T01:36:00.032339000 40.106701s notice: Server ready, "Danhs_MacBook_Pro_local_fa0" 75056670-8487-4b80-83c4-8278cbb1a6d0
+2016-12-07T01:36:01.116321000 41.190754s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: Starting a new Raft election for term 3.
+2016-12-07T01:36:01.137344000 41.211776s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: This server is Raft leader for term 3. Latest log index is 6.
+2016-12-07T02:08:40.865857000 40.059786s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2016-12-07T02:08:40.871897000 40.065821s notice: Running on Darwin 16.1.0 x86_64
+2016-12-07T02:08:40.871943000 40.065865s notice: Loading data from directory /Users/danhtran94/jsCode/khoapham-chat-server/rethinkdb_data
+2016-12-07T02:08:40.902632000 40.096555s info: Automatically using cache size of 6290 MB
+2016-12-07T02:08:40.903044000 40.096965s notice: Listening for intracluster connections on port 29015
+2016-12-07T02:08:40.919350000 40.113272s notice: Listening for client driver connections on port 28015
+2016-12-07T02:08:40.919448000 40.113370s notice: Listening for administrative HTTP connections on port 8080
+2016-12-07T02:08:40.919449000 40.113371s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-12-07T02:08:40.919451000 40.113373s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-12-07T02:08:40.919452000 40.113374s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-12-07T02:08:40.919516000 40.113438s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-12-07T02:08:40.919518000 40.113439s notice: Server ready, "Danhs_MacBook_Pro_local_fa0" 75056670-8487-4b80-83c4-8278cbb1a6d0
+2016-12-07T02:08:42.825338000 42.019300s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: Starting a new Raft election for term 4.
+2016-12-07T02:08:42.849918000 42.043902s info: Table d4b3da07-3ef3-46aa-aa92-a97dbfa3a9ee: This server is Raft leader for term 4. Latest log index is 9.
+2016-12-07T02:09:59.173221000 118.369558s notice: Server got SIGINT from pid 499, uid 501; shutting down...
+2016-12-07T02:09:59.173390000 118.369726s notice: Shutting down client connections...
+2016-12-07T02:09:59.175669000 118.372005s notice: All client connections closed.
+2016-12-07T02:09:59.175679000 118.372014s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-12-07T02:09:59.178861000 118.375197s notice: Storage engine shut down.

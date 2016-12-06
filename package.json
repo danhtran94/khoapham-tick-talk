@@ -11,7 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "rethinkdb && node index.js"
+    "db": "rethinkdb",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"

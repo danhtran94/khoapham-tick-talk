@@ -40,10 +40,8 @@ io.sockets.on("connection", function (conn) {
 	});
 
 	conn.on("client-relog", function (username) {
-		console.log(usersOnline.indexOf(username));
 		var mess;
 		if (usersOnline.indexOf(username) >= 0) {
-			console.log("here");
 			relogs.push(username);
 			mess = {
 				type: "sev",
@@ -160,5 +158,6 @@ app.get("/", function (req, res) {
 	res.render("index");
 });
 
+console.log("Listening on port 8081 && database admin on port 8080");
 httpServer.listen(8081);
 

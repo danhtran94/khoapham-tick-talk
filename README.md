@@ -19,3 +19,5 @@ rethinkdb
 npm run start
 
 -> web app được serve ở port 8081 / web app database dashboard ở port 8080
+
+app có lưu phiên nên có thể refresh và tự kết nối lại do mất kết nối mạng, trường hợp quá 20 giây không kết nối lại phiên tự bị hủy, có thể thiết lập lại ...
